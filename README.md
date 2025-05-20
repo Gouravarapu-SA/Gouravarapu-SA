@@ -1,4 +1,4 @@
-# 👋 Gouravarapu Sai Akhil — Data Scientist | AI Enthusiast | ML Developer
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=FF6F00&width=435&lines=Hi+there!+I'm+Gouravarapu+Sai+Akhil;Data+Scientist+%7C+AI+Enthusiast+%7C+ML+Developer" alt="Typing SVG" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-009688?style=flat&logo=scikit-learn&logoColor=white)
@@ -11,14 +11,14 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧑‍💻 About Me
 
-- 🌱 Currently exploring **AI Agents**
+- 🧠 Currently exploring **AI Agents**
 - 💬 Ask me about **Machine Learning, Deep Learning, or Python Automation**
 - 📫 Reach me at **akhilsai96@gmail.com**
-- 👨‍💻 View all my projects [here](https://github.com/Gouravarapu-SA?tab=repositories)
-- 📄 Know more about my experience on [LinkedIn](https://www.linkedin.com/in/sai-akhil-gouravarapu-702961292/)
-- 🎥 Fun fact: I'm also a part-time **cinematographer**, capturing both visual frames and data insights 🎬
+- 💼 All my projects → [GitHub Repositories](https://github.com/Gouravarapu-SA?tab=repositories)
+- 🔗 Know more → [LinkedIn Profile](https://www.linkedin.com/in/sai-akhil-gouravarapu-702961292/)
+- 🎥 Fun fact: I'm also a part-time **cinematographer**, capturing 🎞️ both visual frames and data insights
 
 ---
 
@@ -106,4 +106,4 @@
 
 ---
 
-> *"Turning real-world problems into data-driven stories — one model at a time."*
+> ✨ *"Turning real-world problems into data-driven stories — one model at a time."* ✨
