@@ -52,21 +52,29 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 GitHub Streak Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gouravarapu-SA&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gouravarapu-SA&layout=compact&theme=default" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gouravarapu-SA&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-## 🏆 GitHub Trophy
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gouravarapu-SA&theme=onedark&row=1" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gouravarapu-SA&theme=darkhub&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 GitHub Activity
+
+![Akhil’s GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gouravarapu-SA&theme=react-dark&hide_border=true&area=true)
+
+---
+
+## 📊 GitHub Stats
+
+![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gouravarapu-SA&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gouravarapu-SA&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
